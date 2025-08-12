@@ -1,7 +1,7 @@
 
 
 # Dimensionality Reduction for Sentiment Analysis with RoBERTa
-
+Documentation Link - https://docs.google.com/document/d/175whP3jb6NHQgDX0-L5kEKkik2ui4gE_wfWuSzJWXVM/edit?usp=sharing
 ## 📌 Overview
 
 This project leverages **RoBERTa** (*A Robustly Optimized BERT Pretraining Approach*) for sentiment analysis.
